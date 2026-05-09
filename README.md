@@ -1,1 +1,1 @@
-# My personal notes as I leran cybersecurity - networking, Linux, tools, concepts. Updated regularly.
+# My personal notes as I learn cybersecurity - networking, Linux, tools, concepts. Updated regularly.
